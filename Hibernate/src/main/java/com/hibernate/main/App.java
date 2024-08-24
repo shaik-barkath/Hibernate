@@ -13,7 +13,7 @@ public class App {
 	public static void main(String[] args) {
 		
 		Student s1 = new Student(1,"Barkath",85);
-		Student s2 = new Student(2,"Shadab",65);
+		Student s2 = new Student(2,"Shadab",85);
 		Student s3 = new Student(3,"Yashwanth",95);
 		
 		Bike b1 = new Bike(111,"KTM",85265);
